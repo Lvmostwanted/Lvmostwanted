@@ -1,16 +1,18 @@
 ### Hi there 👋
+# Personal
+### Hey there 👋
+My name is Nathaniel - not really, I just like it as an alias ☺️, <br>
+I currently live in the United Kingdom and have for the last 12 years of my life, <br>
+Currently 16 years of age, I have extremely high hopes for my future career. <br> <br>
 
-<!--
-**Lvmostwanted/Lvmostwanted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Later in my life as soon as I complete a Bachelor's degree, I hope to move to San Franciso with my best friend, <br>
+This is to pursue our dream jobs - myself as a programmer and him as a penetration tester (whitehat of course).
 
-Here are some ideas to get you started:
+# What languages do you program in?
+This question is extremely simple - not many 😂, <br>
+I have experience with Javascript, Typescript, Python, PHP and HTML. <br> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have not created any major projects as everything already exists in the world 😂, <br>
+But my latest github release/project is/will be [SimpleDiscordJS](https://github.com/Lvmostwanted/SimpleDiscordJS), <br>
+This NPM-based package is designed to make the creation of discord.js clients extremely easy for newer programmers. <br>
+
