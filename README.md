@@ -1,4 +1,3 @@
-### Hi there 👋
 # Personal
 ### Hey there 👋
 My name is Nathaniel - not really, I just like it as an alias ☺️, <br>
